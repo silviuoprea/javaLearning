@@ -7,6 +7,7 @@
 ## Java Book Exercises
 Book :  Data Structures Problem-Solving Using Java
 ### Chapter 1
+#### Primitive Java
 * [1.16 : Addition and Multiplication Table](https://github.com/silviuoprea/javaLearning/blob/98e5cd4c0f87dacba381d4a2b466558a9bad02d8/Chapter1/src/Chapter1.java#L8)
 * [1.17 : Maximum of 3 and 4 Numbers](https://github.com/silviuoprea/javaLearning/blob/98e5cd4c0f87dacba381d4a2b466558a9bad02d8/Chapter1/src/Chapter1.java#L46)
 * [1.18 : Leap Year Checker](https://github.com/silviuoprea/javaLearning/blob/98e5cd4c0f87dacba381d4a2b466558a9bad02d8/Chapter1/src/Chapter1.java#L79)
