@@ -2,7 +2,7 @@
 ## Table of contents
 * [Java Book Exercises](#Java-Book-Exercises)
     * [Chapter 1](#Chapter-1)
-* [Leetcode Exercises](#Leetcode-Exercises)
+* [Leetcode Exercises](/LeetCode)
 
 ## Java Book Exercises
 Book :  Data Structures Problem-Solving Using Java
@@ -15,10 +15,3 @@ Book :  Data Structures Problem-Solving Using Java
 * [1.20 : Roman Numeral Generator](https://github.com/silviuoprea/javaLearning/blob/98e5cd4c0f87dacba381d4a2b466558a9bad02d8/Chapter1/src/Chapter1.java#L125)
 * [1.21 : Printing Numbers in Brackets](https://github.com/silviuoprea/javaLearning/blob/98e5cd4c0f87dacba381d4a2b466558a9bad02d8/Chapter1/src/Chapter1.java#L300)
 * [1.22 : Arithmetic Puzzle](https://github.com/silviuoprea/javaLearning/blob/98e5cd4c0f87dacba381d4a2b466558a9bad02d8/Chapter1/src/Chapter1.java#L328)
-
-	
-## Leetcode Exercises
-Project is created with:
-* #1480 : Running Sum of 1d Array
-* #724 : Find Pivot Index
-
