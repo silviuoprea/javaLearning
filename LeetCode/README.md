@@ -7,7 +7,7 @@
     * [392 : Is Subsequence](#Is-Subsequence)
 ### LeetCode 75
 #### Running Sum of 1d Array
-![SubmissionRS1A](Submissions/1480-running-sum-of-1d-array.PNG)
+![SubmissionRS1A](Submissions/1480-running-sum-of-1d-array.PNG)<br />
 [Code](src/RunningSumof1dArray.java)
 #### Find Pivot Index
 ![SubmissionFindPivotIndex](Submissions/724-find-pivot-index.PNG)
