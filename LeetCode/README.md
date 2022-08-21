@@ -5,16 +5,30 @@
     * [724 : Find Pivot Index](#Find-Pivot-Index)
     * [205 : Isomorphic Strings](#Isomorphic-Strings)
     * [392 : Is Subsequence](#Is-Subsequence)
+* [Self-Chosen](#Self-Chosen)
+  * [66 : Plus One](#Plus-One)
 ### LeetCode 75
+
 #### Running Sum of 1d Array
 ![SubmissionRS1A](Submissions/1480-running-sum-of-1d-array.PNG)<br />
 [Code](src/RunningSumof1dArray.java)
+
 #### Find Pivot Index
 ![SubmissionFindPivotIndex](Submissions/724-find-pivot-index.PNG)
 [Code](src/FindPivotIndex.java)
+
 #### Isomorphic Strings
 ![SubmissionIsoStrings](Submissions/205-isomorphic-strings.PNG)
 [Code](src/IsomorphicStrings.java)
+
 #### Is Subsequence
 ![SubmissionIsSubsequence](Submissions/392-is-subsequence.PNG)
 [Code](src/IsSubsequence.java)
+
+---
+
+### Self Chosen
+
+#### Plus One
+![SubmissionRS1A](Submissions/66-plus-one.PNG)<br />
+[Code](src/PlusOne.java)
