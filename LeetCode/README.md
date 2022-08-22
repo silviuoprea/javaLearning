@@ -5,6 +5,8 @@
     * [724 : Find Pivot Index](#Find-Pivot-Index)
     * [205 : Isomorphic Strings](#Isomorphic-Strings)
     * [392 : Is Subsequence](#Is-Subsequence)
+    * [21 : Merge Two Sorted Lists](#Merge-Two-Sorted-Lists)
+    * [206 : Reverse Linked List](#Reverse-Linked-List)
 * [Self-Chosen](#Self-Chosen)
   * [66 : Plus One](#Plus-One)
 ### LeetCode 75
@@ -24,6 +26,16 @@
 #### Is Subsequence
 ![SubmissionIsSubsequence](Submissions/392-is-subsequence.PNG)
 [Code](src/IsSubsequence.java)
+
+#### Merge Two Sorted Lists
+![SubmissionMergeTwoSortedLists](Submissions/21-merge-sorted-lists.PNG)
+[Code](src/MergeTwoSortedLists.java)<br />
+[Support Code](src/ListNode.java)
+
+#### Reverse Linked List
+![SubmissionReverseLinkedList](Submissions/206-reverse-linked-list.PNG)
+[Code](src/ReverseLinkedList.java)<br />
+[Support Code](src/ListNode.java)
 
 ---
 
