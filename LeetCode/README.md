@@ -8,9 +8,13 @@
     * [21 : Merge Two Sorted Lists](#Merge-Two-Sorted-Lists)
     * [206 : Reverse Linked List](#Reverse-Linked-List)
 * [Self-Chosen](#Self-Chosen)
-  * [66 : Plus One](#Plus-One)
-  * [2011 : Final Value of Variable After Performing Operations](#Final-Value-of-Variable-After-Performing-Operations)
-### LeetCode 75
+  * [Array](#Array)
+    * [66 : Plus One](#Plus-One)
+    * [2011 : Final Value of Variable After Performing Operations](#Final-Value-of-Variable-After-Performing-Operations)
+    * [2114 : Maximum Number of Words Found in Sentences](#Maximum-Number-of-Words-Found-in-Sentences)
+
+---
+## LeetCode 75
 
 #### Running Sum of 1d Array
 ![SubmissionRS1A](Submissions/1480-running-sum-of-1d-array.PNG)<br />
@@ -40,8 +44,11 @@
 
 ---
 
-### Self Chosen
+## Self Chosen
 
+### Array
+
+---
 #### Plus One
 ![SubmissionRS1A](Submissions/66-plus-one.PNG)<br />
 [Code](src/PlusOne.java)
@@ -49,3 +56,7 @@
 #### Final Value of Variable After Performing Operations
 ![SubmissionFVoVAPO](Submissions/2011-final-value-of-variable-after-performing-operations.PNG)<br />
 [Code](src/FinalValueofVariableAfterPerformingOperations.java)
+
+#### Maximum Number of Words Found in Sentences
+![SubmissionMNoWFiS](Submissions/2114-maximum-number-of-words-found-in-sentences.PNG)<br />
+[Code](src/MaximumNumberofWordsFoundinSentences.java)
