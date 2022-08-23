@@ -10,8 +10,8 @@
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/uiDesigner.xml
 /LeetCode/LeetCode.iml
-target/
-bin/
+/target/
+/bin/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -27,3 +27,17 @@ bin/
 *.iws
 *.iml
 *.ipr
+
+/out/production/LeetCode/ContainerWithMostWater.class
+/out/production/LeetCode/FinalValueofVariableAfterPerformingOperations.class
+/out/production/LeetCode/FindClosestNumbertoZero.class
+/out/production/LeetCode/FindPivotIndex.class
+/out/production/LeetCode/IsomorphicStrings.class
+/out/production/LeetCode/IsSubsequence.class
+/out/production/LeetCode/ListNode.class
+/out/production/LeetCode/Main.class
+/out/production/LeetCode/MaximumNumberofWordsFoundinSentences.class
+/out/production/LeetCode/MergeTwoSortedLists.class
+/out/production/LeetCode/PlusOne.class
+/out/production/LeetCode/ReverseLinkedList.class
+/out/production/LeetCode/RunningSumof1dArray.class
