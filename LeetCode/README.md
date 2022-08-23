@@ -7,6 +7,8 @@
     * [392 : Is Subsequence](#Is-Subsequence)
     * [21 : Merge Two Sorted Lists](#Merge-Two-Sorted-Lists)
     * [206 : Reverse Linked List](#Reverse-Linked-List)
+    * [876 : Middle of the Linked List](#Middle-of-the-Linked-List)
+    * [142 : Linked List Cycle II](#Linked-List-Cycle-II)
 * [Self-Chosen](#Self-Chosen)
   * [Array](#Array)
     * [66 : Plus One](#Plus-One)
@@ -42,6 +44,16 @@
 #### Reverse Linked List
 ![SubmissionReverseLinkedList](Submissions/206-reverse-linked-list.PNG)
 [Code](src/ReverseLinkedList.java)<br />
+[Support Code](src/ListNode.java)
+
+#### Middle of the Linked List
+![SubmissionMotLL](Submissions/876-middle-of-the-linked-list.PNG)
+[Code](src/MiddleoftheLinkedList.java)<br />
+[Support Code](src/ListNode.java)
+
+#### Linked List Cycle II
+![SubmissionLLCII](Submissions/142-linked-list-cycle-ii.PNG)
+[Code](src/LinkedListCycleII.java)<br />
 [Support Code](src/ListNode.java)
 
 ---
