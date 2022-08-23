@@ -10,3 +10,20 @@
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/uiDesigner.xml
 /LeetCode/LeetCode.iml
+target/
+bin/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
