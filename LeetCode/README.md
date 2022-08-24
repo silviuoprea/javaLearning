@@ -9,6 +9,8 @@
     * [206 : Reverse Linked List](#Reverse-Linked-List)
     * [876 : Middle of the Linked List](#Middle-of-the-Linked-List)
     * [142 : Linked List Cycle II](#Linked-List-Cycle-II)
+    * [121 : Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
+    * [409 : Longest Palindrome](#Longest-Palindrome)
 * [Self-Chosen](#Self-Chosen)
   * [Array](#Array)
     * [66 : Plus One](#Plus-One)
@@ -55,6 +57,15 @@
 ![SubmissionLLCII](Submissions/142-linked-list-cycle-ii.PNG)
 [Code](src/LinkedListCycleII.java)<br />
 [Support Code](src/ListNode.java)
+
+#### Best Time to Buy and Sell Stock
+![SubmissionBTtBaSS](Submissions/121-best-time-to-buy-and-sell-stock.PNG)
+[Code](src/BestTimetoBuyandSellStock.java)<br />
+
+#### Longest Palindrome
+![SubmissionLP](Submissions/409-longest-palindrome.PNG)
+[Code](src/LongestPalindrome.java)<br />
+
 
 ---
 
